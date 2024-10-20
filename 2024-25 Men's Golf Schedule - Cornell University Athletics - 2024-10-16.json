@@ -1,0 +1,72 @@
+[
+  {
+    "date": "Aug 31 (Sat)",
+    "time": "Sep 1 (Sun)",
+    "location": "Hamilton, N.Y., Seven Oaks Golf Club",
+    "alt": "Colgate University Logo",
+    "src": "/images/logos/Colgate_2022.png?width=80&height=80&mode=max"
+  },
+  {
+    "date": "Sep 21 (Sat)",
+    "time": "Sep 22 (Fri)",
+    "location": "Plymouth Meeting, Pa., The 1912 Club",
+    "alt": "Temple University Logo",
+    "src": "/images/logos/t20.png?width=80&height=80&mode=max"
+  },
+  {
+    "date": "Sep 28 (Sat)",
+    "time": "Sep 29 (Sun)",
+    "location": "Lake Placid, N.Y., Lake Placid Club",
+    "alt": "Columbia University Logo",
+    "src": "/images/logos/Columbia.png?width=80&height=80&mode=max"
+  },
+  {
+    "date": "Oct 6 (Sun)",
+    "time": "Oct 7 (Mon)",
+    "location": "Owego, N.Y., The Links at Hiawatha Landing",
+    "alt": "Binghamton University Logo",
+    "src": "/images/logos/Binghamton_200x200_logo.png?width=80&height=80&mode=max"
+  },
+  {
+    "date": "Oct 13 (Sun)",
+    "time": "Oct 15 (Tue)",
+    "location": "Lewisburg, Pa., Bucknell Golf Club",
+    "alt": "Bucknell University Logo",
+    "src": "/images/logos/bucknell_logo.png?width=80&height=80&mode=max"
+  },
+  {
+    "date": "Feb 17 (Mon)",
+    "time": "Feb 18 (Tue)",
+    "location": "Hilton Head, S.C.",
+    "alt": "Francis Marion University Logo",
+    "src": "/images/logos/Francis-Marion.png?width=80&height=80&mode=max"
+  },
+  {
+    "date": "Mar 29 (Sat)",
+    "time": "All Day",
+    "location": "Hobe Sound, Fla.",
+    "alt": "Dartmouth College Logo",
+    "src": "/images/logos/Dartmouth 200x200 (1).png?width=80&height=80&mode=max"
+  },
+  {
+    "date": "Apr 5 (Sat)",
+    "time": "Apr 6 (Sun)",
+    "location": "Princeton, N.J.",
+    "alt": "Princeton University Logo",
+    "src": "/images/logos/Princeton_Tigers.png?width=80&height=80&mode=max"
+  },
+  {
+    "date": "Apr 19 (Sat)",
+    "time": "All Day",
+    "location": "Kingston, N.Y., Wiltwyck",
+    "alt": "Columbia University Logo",
+    "src": "/images/logos/Columbia.png?width=80&height=80&mode=max"
+  },
+  {
+    "date": "Apr 25 (Fri)",
+    "time": "Apr 27 (Sun)",
+    "location": "Springfield, Pa.",
+    "alt": "Ivy League",
+    "src": "/images/logos/Ivy_League_2023.png?width=80&height=80&mode=max"
+  }
+]
